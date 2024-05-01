@@ -12,3 +12,6 @@ func main() {
   fmt.Println("Hello, World!")
 }
 ```
+- [] naw
+- [] just work
+- [X] gay
