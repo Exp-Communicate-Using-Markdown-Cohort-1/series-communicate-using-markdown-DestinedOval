@@ -1,4 +1,4 @@
 # One
 This is a short, meaningful commit message that describes the changes I made to the file
 
-![some alt text](blob:https://make-a-png.umm.gay/769c2506-2449-40f6-935c-18b830cd2096)
+![some alt text](https://i.kym-cdn.com/entries/icons/mobile/000/001/180/5018904-clippy-black-tar-heroin-memes-png-image-transparent-png-free-clippy-transparent-820_502.jpg)
